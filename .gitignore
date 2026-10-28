@@ -1,0 +1,18 @@
+# Native build outputs
+/build/
+*.o
+*.so
+*.a
+*.d
+
+# Editors and operating systems
+*~
+*.swp
+*.swo
+.idea/
+.vscode/
+.DS_Store
+
+# Distribution archives
+*.zip
+*.tar.gz

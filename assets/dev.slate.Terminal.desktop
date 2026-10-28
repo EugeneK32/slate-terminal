@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Slate Terminal
+Name[ru]=Slate Terminal
+Comment=Minimal native GNOME terminal
+Comment[ru]=Минималистичный терминал для GNOME
+Exec=slate-terminal
+Icon=dev.slate.Terminal
+Terminal=false
+StartupNotify=true
+Categories=System;TerminalEmulator;
+Keywords=terminal;shell;console;command;zsh;
+Keywords[ru]=терминал;консоль;оболочка;команды;
